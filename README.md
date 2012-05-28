@@ -1,5 +1,5 @@
-Caliburn.Micro.Dynamo
-=====================
+Caliburn.Micro.TinyIOC
+======================
                        
 Source code to the [Caliburn.Micro.TinyIOC nuget package](http://nuget.org/List/Packages/Caliburn.Micro.TinyIOC).
 - [Caliburn.Micro.TinyIOC](http://buksbaum.us/things-i-did/caliburn-micro-tinyioc/)
